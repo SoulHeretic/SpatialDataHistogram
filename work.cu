@@ -1,5 +1,3 @@
-//Code written by Dante' Andrews
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
